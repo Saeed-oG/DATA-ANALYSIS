@@ -1,7 +1,9 @@
 # DATAANALYSIS
-Supermarket Sales Data Analysis
+Supermarket Sales Data Analysis:
+
 This project analyzes supermarket sales data using Python to uncover patterns and provide actionable insights through visualizations.
 Project Overview
+
 The goal is to clean, analyze, and visualize sales data to identify key trends, such as top-performing cities, product categories, and temporal sales patterns, to support business decision-making.
 
 Steps:
